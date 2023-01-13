@@ -1,0 +1,13 @@
+body{
+	background-color: powderblue;
+}
+.box {
+   height: 220px;
+   background-color: blue;
+}
+.box1{
+	height: 55px;
+	width: 55px;
+	 background-color: red;
+	color: white;
+}
